@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Build_Status-STABLE-green
+<img src=https://img.shields.io/badge/Build_Status-STABLE-green>
 
 # Jenkins standalone
 
